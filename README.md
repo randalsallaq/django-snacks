@@ -19,7 +19,7 @@ Live [URL](https://randalsallaq.github.io/django-snacks/)
 ## Implementation:
 
 - Created the URLs.
-- Create the Views for them.
+- Created the Views for them.
 - {% Put them in templates using Django way %}.
 - joined the templates.
 
